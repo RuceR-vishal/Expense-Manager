@@ -1,0 +1,16 @@
+
+.add_expense {
+    margin-left: 1rem;
+}
+.scroller{
+    max-height: 580px;
+    overflow-y: auto;
+}
+
+.card_padding{
+    padding-left: 0px;
+    height: 90%;
+}
+.FontAwesomeIcon{
+ cursor: pointer;   
+}
