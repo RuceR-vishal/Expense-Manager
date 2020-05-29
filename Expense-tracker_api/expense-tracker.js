@@ -26,7 +26,7 @@ const con = mysql.createConnection({
     password: 'sql123',
     database: 'demoexpense'
 });
-
+// connection to DB
 con.connect((err) => {
     if (err) throw err;
     console.log('connected')
